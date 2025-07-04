@@ -1,0 +1,11 @@
+7 9
+a b c d e f g
+a b 28
+a f 10
+b c 16
+b g 14
+f e 25
+e g 24
+e d 22
+d c 12
+d g 18
